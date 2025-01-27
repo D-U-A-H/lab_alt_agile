@@ -16,7 +16,7 @@ Workflow:
  ### Details and Assumptions
  * [document what you know]
    
- ### Acceptance Criteria  
+ ### Acceptance Criteria  (measurable!!!)
    
  ```gherkin
  Given [some context]
